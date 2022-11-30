@@ -1,0 +1,239 @@
+/*Software World (Ramazan Solak) 1024X768*/
+
+/*boşlukları sıfırla*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#sayfa{
+    width: 1024px;
+    min-height: 768px;
+    margin: auto;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/* Banner */
+#banner{
+    width: 1022px;
+    height: 125px;
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+    background-color: white;
+}
+/*Logo*/
+#logo{
+    width: 400px;
+    height: 100px;
+    position: relative;
+    border-style: none;
+    top: 8px;
+    left: 8px;
+    float: left;
+}
+/*sosyal medya*/
+#sosyal{
+    width: 150px;
+    height: 90px;
+    border-style: none;
+    background-color: white;
+    float: right;
+    position: relative;
+    top: 13px;
+    right: 8px;
+}
+#insta{
+    float: right;
+    position: relative;
+    top: 15px;
+    right: 5px;
+}
+#twit{
+    float: left;
+    position: relative;
+    top: 12px;
+
+}
+#baslık{
+    position: relative;
+    float: right;
+    right: 15px;
+    top: 30px;
+    font-size: 35px;
+    font-variant: small-caps;
+}
+#sosyalbaslık{
+    font-size: 16px;
+    position: relative;
+    left: 19px;
+    top: 5px;
+    font-weight: bolder;
+}
+/*Anamenü*/
+#anamenu{
+    width: 1022px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+    background-color: rgb(187, 49, 49);
+}
+#anamenu ul{
+    list-style-type: none;
+}
+#anamenu ul li{
+    width: 80px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: black;
+    background-color: white;
+    float: left;
+    padding: 4px;
+    margin-left: 45px;
+    position: relative;
+    top: 8px;
+    text-align: center;
+}
+#anamenu ul a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+/*
+#anamenu ul a:link{
+    color: black;
+}
+#anamenu ul a:visited{
+    color:brown;
+} */
+#anamenu ul a:hover{
+    color: rgb(187, 49, 49);
+}
+#anamenu ul a:active{
+    color: seagreen;
+}
+/* içerik ve yanmenü */
+#icerik{
+    width: 800px;
+    min-height: 500px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    float: left;
+}
+#yanmenu{
+    width: 220px;
+    min-height: 500px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: black;
+    float: right;
+}
+.yaniçerik{
+color: white;
+text-align: center;
+padding: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#yan1{
+    width: 200px;
+    border-style: none;
+    float: left;
+    padding: 4px;
+    margin-left: 5px;
+    position: relative;
+    top: 20px;
+    text-align: center;
+    color: rgb(187, 49, 49);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+#yan2{
+    width: 200px;
+    border-style: none;
+    float: left;
+    padding: 4px;
+    margin-left: 5px;
+    position: relative;
+    top: 35px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+#yan3{
+    width: 200px;
+    border-style: none;
+    float: left;
+    padding: 4px;
+    margin-left: 5px;
+    position: relative;
+    top: 55px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+.dersresimleri{
+    float: left;
+    width: 300px;
+    margin: 25px;
+}
+.metin{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    color: black;
+
+}
+.baslık{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    color: rgb(187, 49, 49);
+    font-weight:bolder;
+}
+/* alt menu */
+#altmenu{
+    width: 1024px;
+    min-height: 100px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgb(187, 49, 49);
+    float: left;
+    text-align: center;
+    list-style-type: none;
+}
+#altmenu a{
+    font-family:sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
+}
+#altmenu a:hover{
+    color: white;
+}
+.altbaslık{
+    color: black;
+    float: right;
+    position: relative;
+    top: 40px;
+    font-style: italic;
+    font-size: 12px;
+}
+.altiletisim{
+   color: black;
+   position: relative;
+   right: 1px;
+   top: 0px;
+   border-style: none;
+   width: 250px;
+   height: 30px;
+   font-size: 20px;
+   padding: 0px;
+}
