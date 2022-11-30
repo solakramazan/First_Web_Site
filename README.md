@@ -1,1 +1,1 @@
-Merhaba bu çalışmam Manisa Celal Bayar Üniversitesi Web tasarımı dersinin projesidir ve tam puan ile sonuçlanmıştır.Proje sadece html ve css kullanılarak oluşturulmuş temel , basit bir başlangıç projemdir.İçeriği bir yazılım sitesi oluşturmak.01.01.2022
+Merhaba bu çalışmam Manisa Celal Bayar Üniversitesi Web tasarımı dersinin projesidir ve tam puan ile sonuçlanmıştır.İçeriği bir yazılım sitesi oluşturmak.Proje sadece html ve css kullanılarak oluşturulmuş temel , basit bir başlangıç projemdir.01.01.2022
