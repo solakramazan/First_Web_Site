@@ -1,1 +1,1 @@
-# First_Web_Site
+Merhaba bu çalışmam Manisa Celal Bayar Üniversitesi Web tasarımı dersinin projesidir ve tam puan ile sonuçlanmıştır.Proje sadece html ve css kullanılarak oluşturulmuş temel , basit bir başlangıç projemdir.İçeriği bir yazılım sitesi oluşturmak.01.01.2022
